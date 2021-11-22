@@ -15,17 +15,7 @@ import {
   PURGE,
   REGISTER,
 } from "redux-persist";
-// import {
-// addContactsRequest,
-// addContactsSuccess,
-// addContactsError,
-// deleteContactsRequest,
-// deleteContactsSuccess,
-// deleteContactsError,
-// fetchContactsRequest,
-// fetchContactsSuccess,
-// fetchContactsError,
-// } from "./contacts/contacts-actions";
+
 import {
   fetchContacts,
   addContact,
